@@ -1,0 +1,14 @@
+{
+  "name": "ibidi-port-scanner",
+  "version": "1.0.0",
+  "description": "A ibidi simple port scanning app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ibidi",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
